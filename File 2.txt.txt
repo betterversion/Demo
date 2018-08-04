@@ -1,1 +1,3 @@
-Initialize a new file 
+Initialize a new file
+
+new line  
