@@ -1,2 +1,4 @@
 
 v2.0 changes file
+
+Additional change in v2.0
